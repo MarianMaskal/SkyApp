@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+  .search{
+    display: inline-block;
+    text-align: center;
+  }
+
+  .device{
+     margin: 20px auto 0 auto;
+    display: block;
+  }
+
+  .device-small{
+    margin-bottom: 20px !important;
+  }
+
+  .footer-main {
+    text-align: center;
+    ul {
+      margin-bottom: 20px;
+      text-align: center !important;
+    }
+    h4{
+      text-align: center;
+    }
+  }
+
+
+}
